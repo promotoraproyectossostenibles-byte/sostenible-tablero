@@ -1,0 +1,421 @@
+{
+ "generated": "2026-11-13",
+ "source": "ClickUp · Lista Seguimiento SOStenible",
+ "list_url": "https://app.clickup.com/3118654/v/l/li/1600620000000490",
+ "frentes": [
+  {
+   "slug": "promotora",
+   "nombre": "Promotora Proyectos SOStenibles",
+   "emoji": "🌐",
+   "color": "#1f8a4c",
+   "home_url": "https://www.sostenible.me/",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.sostenible.me/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmk",
+     "home": true
+    }
+   ]
+  },
+  {
+   "slug": "salud",
+   "nombre": "Salud",
+   "emoji": "💪",
+   "color": "#e0557a",
+   "home_url": "https://salud.sostenible.me/",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://salud.sostenible.me/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmm",
+     "home": true
+    },
+    {
+     "name": "Alimentación",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmp",
+     "home": false
+    },
+    {
+     "name": "Ejercicio",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmn",
+     "home": false
+    }
+   ]
+  },
+  {
+   "slug": "casa-aurora",
+   "nombre": "Casa Aurora",
+   "emoji": "🏡",
+   "color": "#c9890b",
+   "home_url": "",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmq",
+     "home": true
+    },
+    {
+     "name": "Airbnb",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmt",
+     "home": false
+    },
+    {
+     "name": "Cuentas",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://claude.ai/artifact/XdrvMAwM1BaV44tFS3kfFe",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmr",
+     "home": false
+    },
+    {
+     "name": "Experiencias",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://rutas.sostenible.me/#experiencias",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmv",
+     "home": false
+    },
+    {
+     "name": "Planes turísticos",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://rutas.sostenible.me/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmu",
+     "home": false
+    }
+   ]
+  },
+  {
+   "slug": "colombia-sostenible",
+   "nombre": "Colombia SOStenible",
+   "emoji": "🇨🇴",
+   "color": "#2f6fb0",
+   "home_url": "https://www.colombiasostenible.co/",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmw",
+     "home": true
+    },
+    {
+     "name": "Alianzas con Proveedores",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajne",
+     "home": false
+    },
+    {
+     "name": "Blog",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/blog/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmy",
+     "home": false
+    },
+    {
+     "name": "Calculadora de Ahorro",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://colombiasostenible.co/calculadoras/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn3",
+     "home": false
+    },
+    {
+     "name": "ChatBot",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnf",
+     "home": false
+    },
+    {
+     "name": "Contratos",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajng",
+     "home": false
+    },
+    {
+     "name": "Cómo funciona",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://colombiasostenible.co/#como",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn1",
+     "home": false
+    },
+    {
+     "name": "Ejes",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/#ejes",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmz",
+     "home": false
+    },
+    {
+     "name": "El mapa de Colombia",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/#mapa",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn2",
+     "home": false
+    },
+    {
+     "name": "El pacto (documento acuerdo)",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn6",
+     "home": false
+    },
+    {
+     "name": "El sello",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/#sello",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn0",
+     "home": false
+    },
+    {
+     "name": "Generador de contenido de SOStenibilidad",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn8",
+     "home": false
+    },
+    {
+     "name": "Imagen corporativa / manual de marca",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajmx",
+     "home": false
+    },
+    {
+     "name": "Micrositio de cada cliente",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://colombiasostenible.co/micrositios/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn5",
+     "home": false
+    },
+    {
+     "name": "Política de Privacidad",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn7",
+     "home": false
+    },
+    {
+     "name": "Proceso de negocio aliado",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajna",
+     "home": false
+    },
+    {
+     "name": "Proceso de negocio empresa",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnb",
+     "home": false
+    },
+    {
+     "name": "Proceso de negocio hospital",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnd",
+     "home": false
+    },
+    {
+     "name": "Proceso de negocio proveedor",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn9",
+     "home": false
+    },
+    {
+     "name": "Proceso de negocio universidad",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnc",
+     "home": false
+    },
+    {
+     "name": "Súmate",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://www.colombiasostenible.co/#sumate",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajn4",
+     "home": false
+    }
+   ]
+  },
+  {
+   "slug": "box",
+   "nombre": "bOx",
+   "emoji": "📦",
+   "color": "#7a4fd0",
+   "home_url": "https://box.sostenible.me/",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnh",
+     "home": true
+    },
+    {
+     "name": "Acabados / líneas",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#lineas",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnm",
+     "home": false
+    },
+    {
+     "name": "Alianza con Proveedores",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnx",
+     "home": false
+    },
+    {
+     "name": "Clases",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#clases",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnk",
+     "home": false
+    },
+    {
+     "name": "Cotizar",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#arma",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnr",
+     "home": false
+    },
+    {
+     "name": "Cotizar con proveedores según especificación técnica",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnt",
+     "home": false
+    },
+    {
+     "name": "Imagen corporativa bOx / manual de marca",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnj",
+     "home": false
+    },
+    {
+     "name": "Negocio: cada uno compra un Box y se renta en Casa Aurora",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnv",
+     "home": false
+    },
+    {
+     "name": "Plan de negocio a inversionista",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnu",
+     "home": false
+    },
+    {
+     "name": "Preguntas",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#preguntas",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnq",
+     "home": false
+    },
+    {
+     "name": "Proceso",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#proceso",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnp",
+     "home": false
+    },
+    {
+     "name": "Renders de los Boxes construidos",
+     "status": "to do",
+     "col": "porhacer",
+     "url": "",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnw",
+     "home": false
+    },
+    {
+     "name": "SOStenibilidad",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://box.sostenible.me/#sostenibilidad",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnn",
+     "home": false
+    }
+   ]
+  },
+  {
+   "slug": "edificio",
+   "nombre": "Edificio Multifamiliar Casa Aurora",
+   "emoji": "🏢",
+   "color": "#0f9d9f",
+   "home_url": "https://urbanizacion-casa-aurora.sostenible.me/",
+   "items": [
+    {
+     "name": "Sitio principal",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://urbanizacion-casa-aurora.sostenible.me/",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajny",
+     "home": true
+    },
+    {
+     "name": "Deck de Inversión",
+     "status": "complete",
+     "col": "listo",
+     "url": "https://urbanizacion-casa-aurora.sostenible.me/09_Deck_Inversion_Aurora",
+     "clickup": "https://app.clickup.com/t/1dfr5h8ajnz",
+     "home": false
+    }
+   ]
+  }
+ ]
+}
