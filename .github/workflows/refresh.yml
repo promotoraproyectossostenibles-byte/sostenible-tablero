@@ -16,7 +16,7 @@ jobs:
 
       - name: Generar data.json
         env:
-          CLICKUP_TOKEN: ${{ secrets.CLICKUP_TOKEN }}
+          CLICKUP_TOKEN: ${{ secrets.CLICKUP }}
           CLICKUP_LIST_ID: ${{ vars.CLICKUP_LIST_ID }}
         run: python3 generate.py
 
